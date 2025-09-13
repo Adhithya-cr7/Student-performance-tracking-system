@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gamified Student Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+    <style>
+        /* Adding visual enhancements while preserving your original styling */
+        .hero {
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, rgba(83, 52, 131, 0.2) 0%, rgba(26, 188, 156, 0.2) 100%);
+            z-index: -1;
+        }
+        
+        .hero-icons {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            z-index: -2;
+            opacity: 0.1;
+        }
+        
+        .feature-cards {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin: 40px 0;
+            gap: 20px;
+        }
+        
+        .feature-card {
+            flex: 1 1 250px;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+            position: relative;
+            overflow: hidden;
+            text-align: center;
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+        }
+        
+        .feature-card .icon {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+        
+        .pulse-animation {
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+        
+        .xp-bar-container {
+            width: 90%;
+            max-width: 600px;
+            height: 20px;
+            background-color: rgba(0,0,0,0.1);
+            border-radius: 10px;
+            margin: 30px auto;
+            overflow: hidden;
+            position: relative;
+        }
+        
+        .xp-bar {
+            height: 100%;
+            width: 75%;
+            background: linear-gradient(90deg, #3498db, #9b59b6);
+            border-radius: 10px;
+            transition: width 1s ease-in-out;
+            position: relative;
+        }
+        
+        .xp-indicator {
+            position: absolute;
+            top: -25px;
+            right: 0;
+            background-color: #2c3e50;
+            color: white;
+            padding: 3px 8px;
+            border-radius: 5px;
+            font-size: 0.8em;
+            transform: translateX(50%);
+        }
+        
+        .benefits-section {
+            text-align: center;
+            margin: 40px 0;
+            padding: 20px;
+        }
+        
+        .intro-text {
+            position: relative;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: rgba(255, 255, 255, 0.1);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="dashboard.html">Dashboard</a></li>
+    <li><a href="skills.html">Skills</a></li>
+    <li><a href="leaderboard.html">Leaderboard</a></li>
+    <li><a href="boosters.html">Boosters</a></li>
+    <li id="xp-display">XP: 0</li>
+    <li><button id="dark-mode-toggle" title="Toggle Dark Mode">🌙</button></li>
+    <li><button id="logout-btn">Logout</button></li>
+  </ul>
+</nav>
+    
+    <header class="hero">
+        <div class="hero-icons">
+            <!-- Decorative SVG background -->
+            <svg width="100%" height="100%" viewBox="0 0 1000 500">
+                <!-- Trophy icons -->
+                <path d="M250,100 L270,100 L270,130 L290,130 L290,150 C290,160 280,170 270,170 L250,170 C240,170 230,160 230,150 L230,130 L250,130 Z" fill="#FFD700" />
+                <!-- Star icons -->
+                <polygon points="750,150 775,200 830,200 785,235 800,290 750,260 700,290 715,235 670,200 725,200" fill="#FFD700" />
+                <!-- XP icons -->
+                <text x="500" y="250" font-family="Arial" font-size="40" fill="#3498db">XP</text>
+                <!-- Badge icons -->
+                <circle cx="400" cy="300" r="30" fill="#9b59b6" />
+                <circle cx="400" cy="300" r="20" fill="#8e44ad" />
+                <circle cx="600" cy="150" r="40" fill="#2ecc71" />
+                <polygon points="600,120 610,140 630,140 615,155 620,175 600,165 580,175 585,155 570,140 590,140" fill="#27ae60" />
+            </svg>
+        </div>
+        <h1 class="pulse-animation">Gamified Student Tracker</h1>
+        <p>Track your academic progress, earn XP, and unlock rewards!</p>
+    </header>
+    
+    <section id="home">
+        <div class="container">
+            <h1 class="main-heading">Gamified Student Tracker</h1>
+            
+            <div class="xp-bar-container">
+                <div class="xp-bar">
+                    <span class="xp-indicator">75% to Level 5</span>
+                </div>
+            </div>
+            
+            <p class="intro-text">
+                Gamified learning is transforming education by making the learning process more engaging and rewarding.
+                By integrating game-like elements such as <strong>XP points, streaks, boosters, and levels</strong>,
+                students are encouraged to stay motivated and track their academic progress in an interactive way.
+                This system not only <strong>boosts competitiveness</strong> but also ensures <strong>consistent
+                    learning habits</strong>.
+                Through rewards like <strong>hackathon tickets and DA exemptions</strong>, students can push their
+                limits
+                and enjoy a <strong>more immersive educational experience</strong>.
+            </p>
+            
+            <div class="feature-cards">
+                <div class="feature-card">
+                    <div class="icon">🏆</div>
+                    <h3>XP & Levels</h3>
+                    <p>Earn experience points for completing assignments and attending classes.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="icon">🔥</div>
+                    <h3>Streaks</h3>
+                    <p>Maintain daily activity streaks for bonus points and special rewards.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="icon">🚀</div>
+                    <h3>Boosters</h3>
+                    <p>Activate time-limited boosts to multiply your XP gains.</p>
+                </div>
+            </div>
+            
+            <div class="benefits-section">
+                <h2>Unlock Real Academic Benefits</h2>
+                <div class="feature-cards">
+                    <div class="feature-card">
+                        <div class="icon">🎫</div>
+                        <h3>Hackathon Tickets</h3>
+                        <p>Earn exclusive access to premium hackathon events.</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="icon">📝</div>
+                        <h3>DA Exemptions</h3>
+                        <p>Reach high levels to qualify for assignment exemptions.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Gamified Student Tracker | Designed for an engaging learning experience</p>
+    </footer>
+</body>
+</html>

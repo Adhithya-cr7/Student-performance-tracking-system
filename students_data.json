@@ -1,0 +1,2854 @@
+{
+    "students": [
+        {
+            "registration_number": "STU001",
+            "name": "Student 1",
+            "password": "pass1",
+            "xp": 1010,
+            "attendance": 86,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 49,
+                    "cat2": 41,
+                    "fat": 96,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "D.S.D": {
+                    "cat1": 38,
+                    "cat2": 47,
+                    "fat": 79,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 10
+                },
+                "Engg Chemistry": {
+                    "cat1": 36,
+                    "cat2": 49,
+                    "fat": 97,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "OOP": {
+                    "cat1": 38,
+                    "cat2": 37,
+                    "fat": 89,
+                    "da1": 8,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 33,
+                    "cat2": 49,
+                    "fat": 95,
+                    "da1": 10,
+                    "da2": 7,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 40,
+                    "cat2": 30,
+                    "fat": 74,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 8
+                }
+            }
+        },
+        {
+            "registration_number": "STU002",
+            "name": "Student 2",
+            "password": "pass2",
+            "xp": 1020,
+            "attendance": 87,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 49,
+                    "cat2": 32,
+                    "fat": 71,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 47,
+                    "cat2": 47,
+                    "fat": 90,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "Engg Chemistry": {
+                    "cat1": 35,
+                    "cat2": 43,
+                    "fat": 94,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "OOP": {
+                    "cat1": 43,
+                    "cat2": 41,
+                    "fat": 73,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 48,
+                    "cat2": 37,
+                    "fat": 87,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 7
+                },
+                "STS": {
+                    "cat1": 31,
+                    "cat2": 49,
+                    "fat": 86,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 7
+                }
+            }
+        },
+        {
+            "registration_number": "STU003",
+            "name": "Student 3",
+            "password": "pass3",
+            "xp": 1030,
+            "attendance": 88,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 33,
+                    "cat2": 35,
+                    "fat": 94,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "D.S.D": {
+                    "cat1": 47,
+                    "cat2": 47,
+                    "fat": 72,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 7
+                },
+                "Engg Chemistry": {
+                    "cat1": 39,
+                    "cat2": 50,
+                    "fat": 76,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 34,
+                    "cat2": 39,
+                    "fat": 71,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 50,
+                    "cat2": 46,
+                    "fat": 81,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 36,
+                    "cat2": 35,
+                    "fat": 70,
+                    "da1": 10,
+                    "da2": 7,
+                    "da3": 9
+                }
+            }
+        },
+        {
+            "registration_number": "STU004",
+            "name": "Student 4",
+            "password": "pass4",
+            "xp": 1040,
+            "attendance": 89,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 45,
+                    "cat2": 40,
+                    "fat": 92,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 41,
+                    "cat2": 35,
+                    "fat": 74,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 10
+                },
+                "Engg Chemistry": {
+                    "cat1": 38,
+                    "cat2": 30,
+                    "fat": 92,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 33,
+                    "cat2": 39,
+                    "fat": 85,
+                    "da1": 10,
+                    "da2": 7,
+                    "da3": 10
+                },
+                "Business Analytics": {
+                    "cat1": 47,
+                    "cat2": 37,
+                    "fat": 91,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 50,
+                    "cat2": 40,
+                    "fat": 88,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 9
+                }
+            }
+        },
+        {
+            "registration_number": "STU005",
+            "name": "Student 5",
+            "password": "pass5",
+            "xp": 1050,
+            "attendance": 90,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 44,
+                    "cat2": 42,
+                    "fat": 75,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 10
+                },
+                "D.S.D": {
+                    "cat1": 31,
+                    "cat2": 50,
+                    "fat": 86,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 10
+                },
+                "Engg Chemistry": {
+                    "cat1": 45,
+                    "cat2": 32,
+                    "fat": 71,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "OOP": {
+                    "cat1": 48,
+                    "cat2": 37,
+                    "fat": 88,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 7
+                },
+                "Business Analytics": {
+                    "cat1": 42,
+                    "cat2": 39,
+                    "fat": 86,
+                    "da1": 10,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 37,
+                    "cat2": 38,
+                    "fat": 91,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 7
+                }
+            }
+        },
+        {
+            "registration_number": "STU006",
+            "name": "Student 6",
+            "password": "pass6",
+            "xp": 1060,
+            "attendance": 91,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 36,
+                    "cat2": 36,
+                    "fat": 90,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 35,
+                    "cat2": 48,
+                    "fat": 86,
+                    "da1": 10,
+                    "da2": 7,
+                    "da3": 10
+                },
+                "Engg Chemistry": {
+                    "cat1": 43,
+                    "cat2": 47,
+                    "fat": 98,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "OOP": {
+                    "cat1": 47,
+                    "cat2": 35,
+                    "fat": 81,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 31,
+                    "cat2": 30,
+                    "fat": 81,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 33,
+                    "cat2": 35,
+                    "fat": 92,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 9
+                }
+            }
+        },
+        {
+            "registration_number": "STU007",
+            "name": "Student 7",
+            "password": "pass7",
+            "xp": 1070,
+            "attendance": 92,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 32,
+                    "cat2": 42,
+                    "fat": 84,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 38,
+                    "cat2": 33,
+                    "fat": 84,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 7
+                },
+                "Engg Chemistry": {
+                    "cat1": 32,
+                    "cat2": 37,
+                    "fat": 75,
+                    "da1": 8,
+                    "da2": 7,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 36,
+                    "cat2": 39,
+                    "fat": 87,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 44,
+                    "cat2": 47,
+                    "fat": 72,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "STS": {
+                    "cat1": 40,
+                    "cat2": 49,
+                    "fat": 79,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 10
+                }
+            }
+        },
+        {
+            "registration_number": "STU008",
+            "name": "Student 8",
+            "password": "pass8",
+            "xp": 1080,
+            "attendance": 93,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 33,
+                    "cat2": 44,
+                    "fat": 78,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "D.S.D": {
+                    "cat1": 47,
+                    "cat2": 37,
+                    "fat": 74,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "Engg Chemistry": {
+                    "cat1": 48,
+                    "cat2": 34,
+                    "fat": 77,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 34,
+                    "cat2": 40,
+                    "fat": 83,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 7
+                },
+                "Business Analytics": {
+                    "cat1": 45,
+                    "cat2": 37,
+                    "fat": 96,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "STS": {
+                    "cat1": 34,
+                    "cat2": 38,
+                    "fat": 81,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 8
+                }
+            }
+        },
+        {
+            "registration_number": "STU009",
+            "name": "Student 9",
+            "password": "pass9",
+            "xp": 1090,
+            "attendance": 94,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 38,
+                    "cat2": 34,
+                    "fat": 96,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 7
+                },
+                "D.S.D": {
+                    "cat1": 32,
+                    "cat2": 34,
+                    "fat": 74,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 7
+                },
+                "Engg Chemistry": {
+                    "cat1": 49,
+                    "cat2": 38,
+                    "fat": 70,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 38,
+                    "cat2": 38,
+                    "fat": 74,
+                    "da1": 7,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 46,
+                    "cat2": 47,
+                    "fat": 73,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "STS": {
+                    "cat1": 35,
+                    "cat2": 40,
+                    "fat": 78,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 10
+                }
+            }
+        },
+        {
+            "registration_number": "STU010",
+            "name": "Student 10",
+            "password": "pass10",
+            "xp": 1100,
+            "attendance": 85,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 48,
+                    "cat2": 43,
+                    "fat": 88,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 34,
+                    "cat2": 33,
+                    "fat": 81,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 7
+                },
+                "Engg Chemistry": {
+                    "cat1": 34,
+                    "cat2": 42,
+                    "fat": 84,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "OOP": {
+                    "cat1": 45,
+                    "cat2": 40,
+                    "fat": 72,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 33,
+                    "cat2": 30,
+                    "fat": 80,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "STS": {
+                    "cat1": 41,
+                    "cat2": 45,
+                    "fat": 85,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 8
+                }
+            }
+        },
+        {
+            "registration_number": "STU011",
+            "name": "Student 11",
+            "password": "pass11",
+            "xp": 1110,
+            "attendance": 86,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 50,
+                    "cat2": 38,
+                    "fat": 99,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 39,
+                    "cat2": 40,
+                    "fat": 71,
+                    "da1": 7,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "Engg Chemistry": {
+                    "cat1": 38,
+                    "cat2": 47,
+                    "fat": 77,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 34,
+                    "cat2": 40,
+                    "fat": 85,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 38,
+                    "cat2": 30,
+                    "fat": 82,
+                    "da1": 10,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "STS": {
+                    "cat1": 42,
+                    "cat2": 40,
+                    "fat": 72,
+                    "da1": 8,
+                    "da2": 7,
+                    "da3": 9
+                }
+            }
+        },
+        {
+            "registration_number": "STU012",
+            "name": "Student 12",
+            "password": "pass12",
+            "xp": 1120,
+            "attendance": 87,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 37,
+                    "cat2": 33,
+                    "fat": 90,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 7
+                },
+                "D.S.D": {
+                    "cat1": 50,
+                    "cat2": 46,
+                    "fat": 97,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "Engg Chemistry": {
+                    "cat1": 36,
+                    "cat2": 50,
+                    "fat": 96,
+                    "da1": 7,
+                    "da2": 10,
+                    "da3": 7
+                },
+                "OOP": {
+                    "cat1": 30,
+                    "cat2": 48,
+                    "fat": 71,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 10
+                },
+                "Business Analytics": {
+                    "cat1": 45,
+                    "cat2": 46,
+                    "fat": 73,
+                    "da1": 8,
+                    "da2": 7,
+                    "da3": 7
+                },
+                "STS": {
+                    "cat1": 46,
+                    "cat2": 36,
+                    "fat": 78,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 9
+                }
+            }
+        },
+        {
+            "registration_number": "STU013",
+            "name": "Student 13",
+            "password": "pass13",
+            "xp": 1130,
+            "attendance": 88,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 49,
+                    "cat2": 46,
+                    "fat": 74,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "D.S.D": {
+                    "cat1": 34,
+                    "cat2": 42,
+                    "fat": 74,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 7
+                },
+                "Engg Chemistry": {
+                    "cat1": 32,
+                    "cat2": 39,
+                    "fat": 94,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "OOP": {
+                    "cat1": 37,
+                    "cat2": 34,
+                    "fat": 81,
+                    "da1": 10,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 34,
+                    "cat2": 31,
+                    "fat": 71,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 35,
+                    "cat2": 49,
+                    "fat": 72,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 10
+                }
+            }
+        },
+        {
+            "registration_number": "STU014",
+            "name": "Student 14",
+            "password": "pass14",
+            "xp": 1140,
+            "attendance": 89,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 36,
+                    "cat2": 38,
+                    "fat": 72,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 40,
+                    "cat2": 37,
+                    "fat": 72,
+                    "da1": 7,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "Engg Chemistry": {
+                    "cat1": 30,
+                    "cat2": 31,
+                    "fat": 71,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 34,
+                    "cat2": 36,
+                    "fat": 97,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 30,
+                    "cat2": 30,
+                    "fat": 79,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 40,
+                    "cat2": 49,
+                    "fat": 74,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 8
+                }
+            }
+        },
+        {
+            "registration_number": "STU015",
+            "name": "Student 15",
+            "password": "pass15",
+            "xp": 1150,
+            "attendance": 90,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 48,
+                    "cat2": 43,
+                    "fat": 94,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 7
+                },
+                "D.S.D": {
+                    "cat1": 40,
+                    "cat2": 31,
+                    "fat": 94,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "Engg Chemistry": {
+                    "cat1": 41,
+                    "cat2": 50,
+                    "fat": 72,
+                    "da1": 7,
+                    "da2": 10,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 43,
+                    "cat2": 31,
+                    "fat": 98,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 36,
+                    "cat2": 31,
+                    "fat": 85,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 46,
+                    "cat2": 32,
+                    "fat": 91,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 9
+                }
+            }
+        },
+        {
+            "registration_number": "STU016",
+            "name": "Student 16",
+            "password": "pass16",
+            "xp": 1160,
+            "attendance": 91,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 48,
+                    "cat2": 38,
+                    "fat": 95,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 40,
+                    "cat2": 32,
+                    "fat": 79,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 7
+                },
+                "Engg Chemistry": {
+                    "cat1": 42,
+                    "cat2": 30,
+                    "fat": 77,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "OOP": {
+                    "cat1": 31,
+                    "cat2": 35,
+                    "fat": 80,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 7
+                },
+                "Business Analytics": {
+                    "cat1": 49,
+                    "cat2": 36,
+                    "fat": 79,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 30,
+                    "cat2": 36,
+                    "fat": 82,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 7
+                }
+            }
+        },
+        {
+            "registration_number": "STU017",
+            "name": "Student 17",
+            "password": "pass17",
+            "xp": 1170,
+            "attendance": 92,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 36,
+                    "cat2": 36,
+                    "fat": 84,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 47,
+                    "cat2": 37,
+                    "fat": 93,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "Engg Chemistry": {
+                    "cat1": 33,
+                    "cat2": 47,
+                    "fat": 83,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 7
+                },
+                "OOP": {
+                    "cat1": 45,
+                    "cat2": 32,
+                    "fat": 99,
+                    "da1": 10,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 30,
+                    "cat2": 42,
+                    "fat": 96,
+                    "da1": 10,
+                    "da2": 7,
+                    "da3": 7
+                },
+                "STS": {
+                    "cat1": 49,
+                    "cat2": 37,
+                    "fat": 71,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 8
+                }
+            }
+        },
+        {
+            "registration_number": "STU018",
+            "name": "Student 18",
+            "password": "pass18",
+            "xp": 1180,
+            "attendance": 93,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 37,
+                    "cat2": 50,
+                    "fat": 77,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 46,
+                    "cat2": 44,
+                    "fat": 84,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "Engg Chemistry": {
+                    "cat1": 43,
+                    "cat2": 31,
+                    "fat": 95,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "OOP": {
+                    "cat1": 43,
+                    "cat2": 39,
+                    "fat": 87,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 7
+                },
+                "Business Analytics": {
+                    "cat1": 35,
+                    "cat2": 37,
+                    "fat": 94,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 44,
+                    "cat2": 50,
+                    "fat": 77,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 10
+                }
+            }
+        },
+        {
+            "registration_number": "STU019",
+            "name": "Student 19",
+            "password": "pass19",
+            "xp": 1190,
+            "attendance": 94,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 49,
+                    "cat2": 36,
+                    "fat": 94,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 7
+                },
+                "D.S.D": {
+                    "cat1": 33,
+                    "cat2": 35,
+                    "fat": 75,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "Engg Chemistry": {
+                    "cat1": 48,
+                    "cat2": 30,
+                    "fat": 73,
+                    "da1": 8,
+                    "da2": 7,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 43,
+                    "cat2": 41,
+                    "fat": 98,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 10
+                },
+                "Business Analytics": {
+                    "cat1": 49,
+                    "cat2": 37,
+                    "fat": 80,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "STS": {
+                    "cat1": 40,
+                    "cat2": 38,
+                    "fat": 82,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 7
+                }
+            }
+        },
+        {
+            "registration_number": "STU020",
+            "name": "Student 20",
+            "password": "pass20",
+            "xp": 1200,
+            "attendance": 85,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 37,
+                    "cat2": 32,
+                    "fat": 89,
+                    "da1": 7,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 50,
+                    "cat2": 35,
+                    "fat": 82,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 10
+                },
+                "Engg Chemistry": {
+                    "cat1": 34,
+                    "cat2": 34,
+                    "fat": 97,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 7
+                },
+                "OOP": {
+                    "cat1": 30,
+                    "cat2": 36,
+                    "fat": 70,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 46,
+                    "cat2": 34,
+                    "fat": 86,
+                    "da1": 7,
+                    "da2": 10,
+                    "da3": 7
+                },
+                "STS": {
+                    "cat1": 42,
+                    "cat2": 36,
+                    "fat": 93,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 10
+                }
+            }
+        },
+        {
+            "registration_number": "STU021",
+            "name": "Student 21",
+            "password": "pass21",
+            "xp": 1210,
+            "attendance": 86,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 48,
+                    "cat2": 49,
+                    "fat": 72,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 32,
+                    "cat2": 43,
+                    "fat": 82,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "Engg Chemistry": {
+                    "cat1": 40,
+                    "cat2": 31,
+                    "fat": 85,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 41,
+                    "cat2": 31,
+                    "fat": 86,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 31,
+                    "cat2": 48,
+                    "fat": 82,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 41,
+                    "cat2": 38,
+                    "fat": 88,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 9
+                }
+            }
+        },
+        {
+            "registration_number": "STU022",
+            "name": "Student 22",
+            "password": "pass22",
+            "xp": 1220,
+            "attendance": 87,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 49,
+                    "cat2": 41,
+                    "fat": 99,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 33,
+                    "cat2": 41,
+                    "fat": 94,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "Engg Chemistry": {
+                    "cat1": 35,
+                    "cat2": 34,
+                    "fat": 87,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "OOP": {
+                    "cat1": 30,
+                    "cat2": 31,
+                    "fat": 81,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 40,
+                    "cat2": 40,
+                    "fat": 86,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "STS": {
+                    "cat1": 50,
+                    "cat2": 38,
+                    "fat": 98,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 8
+                }
+            }
+        },
+        {
+            "registration_number": "STU023",
+            "name": "Student 23",
+            "password": "pass23",
+            "xp": 1230,
+            "attendance": 88,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 49,
+                    "cat2": 49,
+                    "fat": 94,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 41,
+                    "cat2": 36,
+                    "fat": 78,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 7
+                },
+                "Engg Chemistry": {
+                    "cat1": 43,
+                    "cat2": 43,
+                    "fat": 71,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 46,
+                    "cat2": 31,
+                    "fat": 77,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 32,
+                    "cat2": 40,
+                    "fat": 93,
+                    "da1": 8,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "STS": {
+                    "cat1": 46,
+                    "cat2": 34,
+                    "fat": 75,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 10
+                }
+            }
+        },
+        {
+            "registration_number": "STU024",
+            "name": "Student 24",
+            "password": "pass24",
+            "xp": 1240,
+            "attendance": 89,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 50,
+                    "cat2": 39,
+                    "fat": 94,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 32,
+                    "cat2": 32,
+                    "fat": 75,
+                    "da1": 7,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "Engg Chemistry": {
+                    "cat1": 44,
+                    "cat2": 43,
+                    "fat": 83,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "OOP": {
+                    "cat1": 46,
+                    "cat2": 33,
+                    "fat": 93,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 7
+                },
+                "Business Analytics": {
+                    "cat1": 37,
+                    "cat2": 43,
+                    "fat": 95,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 43,
+                    "cat2": 33,
+                    "fat": 83,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 7
+                }
+            }
+        },
+        {
+            "registration_number": "STU025",
+            "name": "Student 25",
+            "password": "pass25",
+            "xp": 1250,
+            "attendance": 90,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 41,
+                    "cat2": 50,
+                    "fat": 70,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 47,
+                    "cat2": 37,
+                    "fat": 97,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "Engg Chemistry": {
+                    "cat1": 35,
+                    "cat2": 34,
+                    "fat": 95,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 43,
+                    "cat2": 48,
+                    "fat": 80,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 33,
+                    "cat2": 44,
+                    "fat": 90,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 7
+                },
+                "STS": {
+                    "cat1": 30,
+                    "cat2": 39,
+                    "fat": 72,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 10
+                }
+            }
+        },
+        {
+            "registration_number": "STU026",
+            "name": "Student 26",
+            "password": "pass26",
+            "xp": 1260,
+            "attendance": 91,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 30,
+                    "cat2": 36,
+                    "fat": 79,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 42,
+                    "cat2": 30,
+                    "fat": 88,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "Engg Chemistry": {
+                    "cat1": 30,
+                    "cat2": 31,
+                    "fat": 76,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "OOP": {
+                    "cat1": 36,
+                    "cat2": 48,
+                    "fat": 70,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 40,
+                    "cat2": 30,
+                    "fat": 90,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 30,
+                    "cat2": 37,
+                    "fat": 97,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 7
+                }
+            }
+        },
+        {
+            "registration_number": "STU027",
+            "name": "Student 27",
+            "password": "pass27",
+            "xp": 1270,
+            "attendance": 92,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 50,
+                    "cat2": 35,
+                    "fat": 93,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 10
+                },
+                "D.S.D": {
+                    "cat1": 39,
+                    "cat2": 50,
+                    "fat": 78,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "Engg Chemistry": {
+                    "cat1": 46,
+                    "cat2": 39,
+                    "fat": 81,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "OOP": {
+                    "cat1": 34,
+                    "cat2": 37,
+                    "fat": 89,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 43,
+                    "cat2": 41,
+                    "fat": 83,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 39,
+                    "cat2": 37,
+                    "fat": 96,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 9
+                }
+            }
+        },
+        {
+            "registration_number": "STU028",
+            "name": "Student 28",
+            "password": "pass28",
+            "xp": 1280,
+            "attendance": 93,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 43,
+                    "cat2": 46,
+                    "fat": 79,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 10
+                },
+                "D.S.D": {
+                    "cat1": 44,
+                    "cat2": 44,
+                    "fat": 100,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 7
+                },
+                "Engg Chemistry": {
+                    "cat1": 34,
+                    "cat2": 36,
+                    "fat": 91,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 7
+                },
+                "OOP": {
+                    "cat1": 36,
+                    "cat2": 42,
+                    "fat": 88,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 7
+                },
+                "Business Analytics": {
+                    "cat1": 32,
+                    "cat2": 30,
+                    "fat": 91,
+                    "da1": 8,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 47,
+                    "cat2": 49,
+                    "fat": 87,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 9
+                }
+            }
+        },
+        {
+            "registration_number": "STU029",
+            "name": "Student 29",
+            "password": "pass29",
+            "xp": 1290,
+            "attendance": 94,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 47,
+                    "cat2": 46,
+                    "fat": 74,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 7
+                },
+                "D.S.D": {
+                    "cat1": 36,
+                    "cat2": 38,
+                    "fat": 75,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "Engg Chemistry": {
+                    "cat1": 30,
+                    "cat2": 36,
+                    "fat": 85,
+                    "da1": 7,
+                    "da2": 10,
+                    "da3": 7
+                },
+                "OOP": {
+                    "cat1": 36,
+                    "cat2": 39,
+                    "fat": 72,
+                    "da1": 10,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 34,
+                    "cat2": 30,
+                    "fat": 97,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 47,
+                    "cat2": 31,
+                    "fat": 93,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 8
+                }
+            }
+        },
+        {
+            "registration_number": "STU030",
+            "name": "Student 30",
+            "password": "pass30",
+            "xp": 1300,
+            "attendance": 85,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 42,
+                    "cat2": 46,
+                    "fat": 96,
+                    "da1": 7,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 47,
+                    "cat2": 48,
+                    "fat": 75,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 7
+                },
+                "Engg Chemistry": {
+                    "cat1": 50,
+                    "cat2": 50,
+                    "fat": 100,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "OOP": {
+                    "cat1": 31,
+                    "cat2": 36,
+                    "fat": 98,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 32,
+                    "cat2": 39,
+                    "fat": 75,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 47,
+                    "cat2": 34,
+                    "fat": 94,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 7
+                }
+            }
+        },
+        {
+            "registration_number": "STU031",
+            "name": "Student 31",
+            "password": "pass31",
+            "xp": 1310,
+            "attendance": 86,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 48,
+                    "cat2": 31,
+                    "fat": 97,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 31,
+                    "cat2": 46,
+                    "fat": 95,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 7
+                },
+                "Engg Chemistry": {
+                    "cat1": 47,
+                    "cat2": 36,
+                    "fat": 92,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "OOP": {
+                    "cat1": 32,
+                    "cat2": 30,
+                    "fat": 91,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 46,
+                    "cat2": 38,
+                    "fat": 100,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 31,
+                    "cat2": 30,
+                    "fat": 93,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 10
+                }
+            }
+        },
+        {
+            "registration_number": "STU032",
+            "name": "Student 32",
+            "password": "pass32",
+            "xp": 1320,
+            "attendance": 87,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 44,
+                    "cat2": 38,
+                    "fat": 95,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 31,
+                    "cat2": 40,
+                    "fat": 89,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 7
+                },
+                "Engg Chemistry": {
+                    "cat1": 46,
+                    "cat2": 46,
+                    "fat": 86,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 7
+                },
+                "OOP": {
+                    "cat1": 30,
+                    "cat2": 45,
+                    "fat": 85,
+                    "da1": 8,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 41,
+                    "cat2": 41,
+                    "fat": 92,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 46,
+                    "cat2": 40,
+                    "fat": 80,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 8
+                }
+            }
+        },
+        {
+            "registration_number": "STU033",
+            "name": "Student 33",
+            "password": "pass33",
+            "xp": 1330,
+            "attendance": 88,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 40,
+                    "cat2": 41,
+                    "fat": 99,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 45,
+                    "cat2": 44,
+                    "fat": 79,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "Engg Chemistry": {
+                    "cat1": 43,
+                    "cat2": 30,
+                    "fat": 86,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "OOP": {
+                    "cat1": 44,
+                    "cat2": 45,
+                    "fat": 81,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 49,
+                    "cat2": 43,
+                    "fat": 85,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 45,
+                    "cat2": 38,
+                    "fat": 80,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 8
+                }
+            }
+        },
+        {
+            "registration_number": "STU034",
+            "name": "Student 34",
+            "password": "pass34",
+            "xp": 1340,
+            "attendance": 89,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 30,
+                    "cat2": 50,
+                    "fat": 89,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 37,
+                    "cat2": 47,
+                    "fat": 93,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "Engg Chemistry": {
+                    "cat1": 34,
+                    "cat2": 45,
+                    "fat": 81,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "OOP": {
+                    "cat1": 40,
+                    "cat2": 31,
+                    "fat": 80,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 7
+                },
+                "Business Analytics": {
+                    "cat1": 40,
+                    "cat2": 41,
+                    "fat": 87,
+                    "da1": 8,
+                    "da2": 7,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 31,
+                    "cat2": 35,
+                    "fat": 80,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 7
+                }
+            }
+        },
+        {
+            "registration_number": "STU035",
+            "name": "Student 35",
+            "password": "pass35",
+            "xp": 1350,
+            "attendance": 90,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 42,
+                    "cat2": 37,
+                    "fat": 80,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 7
+                },
+                "D.S.D": {
+                    "cat1": 47,
+                    "cat2": 34,
+                    "fat": 100,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "Engg Chemistry": {
+                    "cat1": 31,
+                    "cat2": 46,
+                    "fat": 97,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "OOP": {
+                    "cat1": 37,
+                    "cat2": 40,
+                    "fat": 81,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 43,
+                    "cat2": 43,
+                    "fat": 96,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 7
+                },
+                "STS": {
+                    "cat1": 33,
+                    "cat2": 36,
+                    "fat": 87,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 8
+                }
+            }
+        },
+        {
+            "registration_number": "STU036",
+            "name": "Student 36",
+            "password": "pass36",
+            "xp": 1360,
+            "attendance": 91,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 34,
+                    "cat2": 42,
+                    "fat": 93,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 42,
+                    "cat2": 31,
+                    "fat": 80,
+                    "da1": 8,
+                    "da2": 7,
+                    "da3": 7
+                },
+                "Engg Chemistry": {
+                    "cat1": 33,
+                    "cat2": 35,
+                    "fat": 78,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 40,
+                    "cat2": 50,
+                    "fat": 88,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 40,
+                    "cat2": 41,
+                    "fat": 78,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 48,
+                    "cat2": 39,
+                    "fat": 75,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 10
+                }
+            }
+        },
+        {
+            "registration_number": "STU037",
+            "name": "Student 37",
+            "password": "pass37",
+            "xp": 1370,
+            "attendance": 92,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 38,
+                    "cat2": 30,
+                    "fat": 100,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 7
+                },
+                "D.S.D": {
+                    "cat1": 49,
+                    "cat2": 38,
+                    "fat": 95,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "Engg Chemistry": {
+                    "cat1": 49,
+                    "cat2": 39,
+                    "fat": 71,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 45,
+                    "cat2": 44,
+                    "fat": 99,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 7
+                },
+                "Business Analytics": {
+                    "cat1": 48,
+                    "cat2": 40,
+                    "fat": 74,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 40,
+                    "cat2": 45,
+                    "fat": 100,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 7
+                }
+            }
+        },
+        {
+            "registration_number": "STU038",
+            "name": "Student 38",
+            "password": "pass38",
+            "xp": 1380,
+            "attendance": 93,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 40,
+                    "cat2": 50,
+                    "fat": 82,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 34,
+                    "cat2": 34,
+                    "fat": 97,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "Engg Chemistry": {
+                    "cat1": 30,
+                    "cat2": 38,
+                    "fat": 84,
+                    "da1": 10,
+                    "da2": 7,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 35,
+                    "cat2": 33,
+                    "fat": 75,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 49,
+                    "cat2": 33,
+                    "fat": 84,
+                    "da1": 8,
+                    "da2": 7,
+                    "da3": 7
+                },
+                "STS": {
+                    "cat1": 50,
+                    "cat2": 39,
+                    "fat": 97,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 7
+                }
+            }
+        },
+        {
+            "registration_number": "STU039",
+            "name": "Student 39",
+            "password": "pass39",
+            "xp": 1390,
+            "attendance": 94,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 49,
+                    "cat2": 33,
+                    "fat": 72,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 7
+                },
+                "D.S.D": {
+                    "cat1": 39,
+                    "cat2": 40,
+                    "fat": 71,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "Engg Chemistry": {
+                    "cat1": 35,
+                    "cat2": 48,
+                    "fat": 75,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "OOP": {
+                    "cat1": 42,
+                    "cat2": 45,
+                    "fat": 98,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 7
+                },
+                "Business Analytics": {
+                    "cat1": 32,
+                    "cat2": 46,
+                    "fat": 91,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 38,
+                    "cat2": 41,
+                    "fat": 90,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 9
+                }
+            }
+        },
+        {
+            "registration_number": "STU040",
+            "name": "Student 40",
+            "password": "pass40",
+            "xp": 1400,
+            "attendance": 85,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 45,
+                    "cat2": 49,
+                    "fat": 100,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 44,
+                    "cat2": 33,
+                    "fat": 100,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "Engg Chemistry": {
+                    "cat1": 32,
+                    "cat2": 39,
+                    "fat": 75,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 7
+                },
+                "OOP": {
+                    "cat1": 45,
+                    "cat2": 38,
+                    "fat": 77,
+                    "da1": 8,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 44,
+                    "cat2": 49,
+                    "fat": 83,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "STS": {
+                    "cat1": 44,
+                    "cat2": 46,
+                    "fat": 89,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 7
+                }
+            }
+        },
+        {
+            "registration_number": "STU041",
+            "name": "Student 41",
+            "password": "pass41",
+            "xp": 1410,
+            "attendance": 86,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 45,
+                    "cat2": 37,
+                    "fat": 86,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 33,
+                    "cat2": 40,
+                    "fat": 86,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 7
+                },
+                "Engg Chemistry": {
+                    "cat1": 47,
+                    "cat2": 30,
+                    "fat": 84,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "OOP": {
+                    "cat1": 31,
+                    "cat2": 41,
+                    "fat": 71,
+                    "da1": 8,
+                    "da2": 7,
+                    "da3": 7
+                },
+                "Business Analytics": {
+                    "cat1": 34,
+                    "cat2": 46,
+                    "fat": 93,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 39,
+                    "cat2": 38,
+                    "fat": 91,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 10
+                }
+            }
+        },
+        {
+            "registration_number": "STU042",
+            "name": "Student 42",
+            "password": "pass42",
+            "xp": 1420,
+            "attendance": 87,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 48,
+                    "cat2": 34,
+                    "fat": 78,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "D.S.D": {
+                    "cat1": 47,
+                    "cat2": 47,
+                    "fat": 90,
+                    "da1": 10,
+                    "da2": 7,
+                    "da3": 7
+                },
+                "Engg Chemistry": {
+                    "cat1": 31,
+                    "cat2": 41,
+                    "fat": 86,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 37,
+                    "cat2": 45,
+                    "fat": 99,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 7
+                },
+                "Business Analytics": {
+                    "cat1": 49,
+                    "cat2": 50,
+                    "fat": 83,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 44,
+                    "cat2": 42,
+                    "fat": 86,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 9
+                }
+            }
+        },
+        {
+            "registration_number": "STU043",
+            "name": "Student 43",
+            "password": "pass43",
+            "xp": 1430,
+            "attendance": 88,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 38,
+                    "cat2": 45,
+                    "fat": 72,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 33,
+                    "cat2": 38,
+                    "fat": 76,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "Engg Chemistry": {
+                    "cat1": 47,
+                    "cat2": 35,
+                    "fat": 99,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 10
+                },
+                "OOP": {
+                    "cat1": 47,
+                    "cat2": 43,
+                    "fat": 99,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 35,
+                    "cat2": 30,
+                    "fat": 78,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "STS": {
+                    "cat1": 30,
+                    "cat2": 32,
+                    "fat": 74,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 8
+                }
+            }
+        },
+        {
+            "registration_number": "STU044",
+            "name": "Student 44",
+            "password": "pass44",
+            "xp": 1440,
+            "attendance": 89,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 41,
+                    "cat2": 50,
+                    "fat": 76,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 42,
+                    "cat2": 40,
+                    "fat": 87,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "Engg Chemistry": {
+                    "cat1": 35,
+                    "cat2": 33,
+                    "fat": 77,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 7
+                },
+                "OOP": {
+                    "cat1": 50,
+                    "cat2": 30,
+                    "fat": 73,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 32,
+                    "cat2": 44,
+                    "fat": 77,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 10
+                },
+                "STS": {
+                    "cat1": 39,
+                    "cat2": 43,
+                    "fat": 89,
+                    "da1": 10,
+                    "da2": 9,
+                    "da3": 10
+                }
+            }
+        },
+        {
+            "registration_number": "STU045",
+            "name": "Student 45",
+            "password": "pass45",
+            "xp": 1450,
+            "attendance": 90,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 45,
+                    "cat2": 31,
+                    "fat": 81,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 44,
+                    "cat2": 49,
+                    "fat": 77,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "Engg Chemistry": {
+                    "cat1": 32,
+                    "cat2": 34,
+                    "fat": 93,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "OOP": {
+                    "cat1": 48,
+                    "cat2": 49,
+                    "fat": 90,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 44,
+                    "cat2": 37,
+                    "fat": 74,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 35,
+                    "cat2": 32,
+                    "fat": 98,
+                    "da1": 9,
+                    "da2": 8,
+                    "da3": 8
+                }
+            }
+        },
+        {
+            "registration_number": "STU046",
+            "name": "Student 46",
+            "password": "pass46",
+            "xp": 1460,
+            "attendance": 91,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 31,
+                    "cat2": 39,
+                    "fat": 96,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 40,
+                    "cat2": 47,
+                    "fat": 94,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "Engg Chemistry": {
+                    "cat1": 46,
+                    "cat2": 41,
+                    "fat": 83,
+                    "da1": 10,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "OOP": {
+                    "cat1": 41,
+                    "cat2": 32,
+                    "fat": 83,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 35,
+                    "cat2": 33,
+                    "fat": 89,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 42,
+                    "cat2": 45,
+                    "fat": 97,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 9
+                }
+            }
+        },
+        {
+            "registration_number": "STU047",
+            "name": "Student 47",
+            "password": "pass47",
+            "xp": 1470,
+            "attendance": 92,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 33,
+                    "cat2": 49,
+                    "fat": 85,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 46,
+                    "cat2": 35,
+                    "fat": 81,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "Engg Chemistry": {
+                    "cat1": 50,
+                    "cat2": 37,
+                    "fat": 81,
+                    "da1": 10,
+                    "da2": 7,
+                    "da3": 8
+                },
+                "OOP": {
+                    "cat1": 43,
+                    "cat2": 40,
+                    "fat": 71,
+                    "da1": 7,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 42,
+                    "cat2": 33,
+                    "fat": 90,
+                    "da1": 7,
+                    "da2": 8,
+                    "da3": 9
+                },
+                "STS": {
+                    "cat1": 44,
+                    "cat2": 46,
+                    "fat": 79,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 8
+                }
+            }
+        },
+        {
+            "registration_number": "STU048",
+            "name": "Student 48",
+            "password": "pass48",
+            "xp": 1480,
+            "attendance": 93,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 43,
+                    "cat2": 36,
+                    "fat": 71,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "D.S.D": {
+                    "cat1": 42,
+                    "cat2": 32,
+                    "fat": 87,
+                    "da1": 9,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "Engg Chemistry": {
+                    "cat1": 47,
+                    "cat2": 45,
+                    "fat": 97,
+                    "da1": 7,
+                    "da2": 10,
+                    "da3": 9
+                },
+                "OOP": {
+                    "cat1": 45,
+                    "cat2": 39,
+                    "fat": 93,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "Business Analytics": {
+                    "cat1": 46,
+                    "cat2": 40,
+                    "fat": 86,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 7
+                },
+                "STS": {
+                    "cat1": 49,
+                    "cat2": 34,
+                    "fat": 82,
+                    "da1": 8,
+                    "da2": 8,
+                    "da3": 8
+                }
+            }
+        },
+        {
+            "registration_number": "STU049",
+            "name": "Student 49",
+            "password": "pass49",
+            "xp": 1490,
+            "attendance": 94,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 34,
+                    "cat2": 40,
+                    "fat": 82,
+                    "da1": 9,
+                    "da2": 7,
+                    "da3": 7
+                },
+                "D.S.D": {
+                    "cat1": 46,
+                    "cat2": 44,
+                    "fat": 77,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "Engg Chemistry": {
+                    "cat1": 43,
+                    "cat2": 42,
+                    "fat": 72,
+                    "da1": 9,
+                    "da2": 9,
+                    "da3": 8
+                },
+                "OOP": {
+                    "cat1": 44,
+                    "cat2": 44,
+                    "fat": 94,
+                    "da1": 8,
+                    "da2": 10,
+                    "da3": 10
+                },
+                "Business Analytics": {
+                    "cat1": 38,
+                    "cat2": 31,
+                    "fat": 72,
+                    "da1": 7,
+                    "da2": 10,
+                    "da3": 8
+                },
+                "STS": {
+                    "cat1": 33,
+                    "cat2": 40,
+                    "fat": 90,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 7
+                }
+            }
+        },
+        {
+            "registration_number": "STU050",
+            "name": "Student 50",
+            "password": "pass50",
+            "xp": 1500,
+            "attendance": 85,
+            "marks": {
+                "D.E.T": {
+                    "cat1": 50,
+                    "cat2": 31,
+                    "fat": 95,
+                    "da1": 7,
+                    "da2": 10,
+                    "da3": 7
+                },
+                "D.S.D": {
+                    "cat1": 49,
+                    "cat2": 32,
+                    "fat": 73,
+                    "da1": 10,
+                    "da2": 10,
+                    "da3": 10
+                },
+                "Engg Chemistry": {
+                    "cat1": 45,
+                    "cat2": 39,
+                    "fat": 73,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "OOP": {
+                    "cat1": 42,
+                    "cat2": 38,
+                    "fat": 81,
+                    "da1": 10,
+                    "da2": 7,
+                    "da3": 9
+                },
+                "Business Analytics": {
+                    "cat1": 40,
+                    "cat2": 32,
+                    "fat": 95,
+                    "da1": 7,
+                    "da2": 9,
+                    "da3": 9
+                },
+                "STS": {
+                    "cat1": 31,
+                    "cat2": 35,
+                    "fat": 92,
+                    "da1": 8,
+                    "da2": 9,
+                    "da3": 7
+                }
+            }
+        }
+    ]
+}
